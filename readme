@@ -1,0 +1,25 @@
+# 🧠 MNIST GAN Generator with Streamlit
+
+This project implements a Generative Adversarial Network (GAN) using Keras to generate handwritten digits from the MNIST dataset. It includes an interactive Streamlit web interface to train the model and generate synthetic digits.
+
+---
+
+## 🚀 Features
+
+- Train a GAN on the MNIST dataset.
+- Generate handwritten digits using a trained generator.
+- Interactive web interface built with Streamlit.
+- Save and load generator weights.
+- Visualize generated images in a grid layout.
+
+---
+
+## 📦 Requirements
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
+
+git clone https://github.com/yourusername/mnist-gan-streamlit.git
+cd mnist-gan-streamlit
